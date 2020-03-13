@@ -1,0 +1,8 @@
+[debug] Running TaskDef(test, org.scalatest.tools.Framework$$anon$1@23a3874, false, [SuiteSelector])
+[info] Run completed in 11 seconds, 145 milliseconds.
+[info] Total number of tests run: 7
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 7, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	test

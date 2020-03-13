@@ -1,0 +1,15 @@
+[debug] Packaging C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\target\scala-2.13\oscar_palomino_hw3_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	
+[debug] 	  C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\target\scala-2.13\classes
+[debug] 	getInput.class
+[debug] 	  C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\target\scala-2.13\classes\getInput.class
+[debug] 	logger$.class
+[debug] 	  C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\target\scala-2.13\classes\logger$.class
+[debug] 	logger.class
+[debug] 	  C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\target\scala-2.13\classes\logger.class
+[debug] 	main$.class
+[debug] 	  C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\target\scala-2.13\classes\main$.class
+[debug] 	main.class
+[debug] 	  C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\target\scala-2.13\classes\main.class
+[debug] Done packaging.

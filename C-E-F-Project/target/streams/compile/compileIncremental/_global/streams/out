@@ -1,0 +1,52 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set(C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\DateCommand.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\CurlCommand.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\Command.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\DirCommand.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\ProcessCommand.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\MdCommand.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\notes.scala)
+[debug] 	added: Set(C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\src\main\scala\DirCommand.scala, C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\src\main\scala\ProcessCommand.scala, C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\src\main\scala\DateCommand.scala, C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\src\main\scala\notes.scala, C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\src\main\scala\Command.scala, C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\src\main\scala\MdCommand.scala, C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\src\main\scala\CurlCommand.scala)
+[debug] 	modified: Set()
+[debug] Invalidated products: Set(C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\target\scala-2.13\classes\CurlCommand.class, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\target\scala-2.13\classes\DirCommand.class, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\target\scala-2.13\classes\DateCommand.class, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\target\scala-2.13\classes\notes$.class, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\target\scala-2.13\classes\notes$classnotes$.class, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\target\scala-2.13\classes\notes.class, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\target\scala-2.13\classes\MdCommand.class, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\target\scala-2.13\classes\ProcessCommand.class, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\target\scala-2.13\classes\Command.class)
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set(C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\lib\scalatest_2.13-3.0.8-javadoc.jar, C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\lib\slf4j-simple-1.7.28.jar, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\lib\slf4j-simple-1.7.28.jar, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\lib\scalatest_2.13-3.0.8-javadoc.jar)
+[debug] Initial directly invalidated classes: Set(CurlCommand, notes.classnotes, DateCommand, Command, MdCommand, ProcessCommand, DirCommand, notes)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set(C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\DateCommand.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\CurlCommand.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\Command.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\DirCommand.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\ProcessCommand.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\MdCommand.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\notes.scala)
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated classes: Set(CurlCommand, notes.classnotes, DateCommand, Command, MdCommand, ProcessCommand, DirCommand, notes)
+[debug] All initially invalidated sources:Set(C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\src\main\scala\DirCommand.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\DateCommand.scala, C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\src\main\scala\ProcessCommand.scala, C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\src\main\scala\DateCommand.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\CurlCommand.scala, C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\src\main\scala\notes.scala, C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\src\main\scala\Command.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\Command.scala, C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\src\main\scala\MdCommand.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\DirCommand.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\ProcessCommand.scala, C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\src\main\scala\CurlCommand.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\MdCommand.scala, C:\Users\OP\Google Drive\CS 474\Oscar_Palomino_hw3\src\main\scala\notes.scala)
+[debug] Initial set of included nodes: CurlCommand, notes.classnotes, DateCommand, Command, MdCommand, ProcessCommand, DirCommand, notes
+[debug] Including MdCommand by Command
+[debug] Including ProcessCommand by Command
+[debug] Including DirCommand by Command
+[debug] Recompiling all sources: number of invalidated sources > 50.0% of all sources
+[info] Compiling 7 Scala sources to C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\target\scala-2.13\classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.3.1:compile for Scala 2.13.1
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.3.1:compile for Scala 2.13.1
+[debug] [zinc] Running cached compiler 3b23e183 for Scala compiler version 2.13.1
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-bootclasspath
+[debug] 	C:\Users\OP\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.1\scala-library-2.13.1.jar
+[debug] 	-classpath
+[debug] 	C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\target\scala-2.13\classes;C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\lib\scalatest_2.13-3.0.8-javadoc.jar;C:\Users\OP\Documents\oscar_palomino_hw3\Oscar_Palomino_hw3\lib\slf4j-simple-1.7.28.jar;C:\Users\OP\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.13.1\scala-reflect-2.13.1.jar;C:\Users\OP\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalactic\scalactic_2.13\3.0.8\scalactic_2.13-3.0.8.jar
+[debug] Scala compilation took 2.5272011 s
+[info] Done compiling.
+[debug] Invalidating (transitively) by inheritance from Command...
+[debug] Initial set of included nodes: Command
+[debug] Including CurlCommand by Command
+[debug] Including DateCommand by Command
+[debug] Including MdCommand by Command
+[debug] Including ProcessCommand by Command
+[debug] Including DirCommand by Command
+[debug] Invalidated by transitive inheritance dependency: Set(CurlCommand, DateCommand, Command, MdCommand, ProcessCommand, DirCommand)
+[debug] Change TraitPrivateMembersModified(Command) invalidates 6 classes due to The private signature of trait Command changed.
+[debug] 	> by transitive inheritance: Set(CurlCommand, DateCommand, Command, MdCommand, ProcessCommand, DirCommand)
+[debug] 	> 
+[debug] 	> 
+[debug]         
+[debug] New invalidations:
+[debug] 	Set(CurlCommand, DateCommand, MdCommand, ProcessCommand, DirCommand)
+[debug] Initial set of included nodes: CurlCommand, DateCommand, MdCommand, ProcessCommand, DirCommand
+[debug] Including notes by DirCommand
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()
+[debug] No classes were invalidated.

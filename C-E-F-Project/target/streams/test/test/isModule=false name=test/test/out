@@ -1,0 +1,15 @@
+[info] test:
+[info] dir command
+[info] - should return success
+[info] md command
+[info] - should return success
+[info] Date command
+[info] - should return success
+[info] Process command
+[info] - should return success
+[info] Curl command
+[info] - should contain 200 OK
+[info] various commands
+[info] - should use date to create folder and check for it
+[info] dir and date commands
+[info] - should use date to replace dir command results
